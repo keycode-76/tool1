@@ -1,4 +1,4 @@
-import "./style.scss";
+// import "/style.scss";
 
 document.getElementById("file").addEventListener("change", (event) => {
     const fileInput = event.target;
